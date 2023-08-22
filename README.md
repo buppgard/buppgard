@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey 👋
+- 🔭 I’m currently working on a UF Online Computer Science degree.
+- 🌱 I’m currently learning COP3530 - Data Structures and Algorithms.
+- 💬 Ask me about airplanes 🛩️
+
 
 <!--
 **buppgard/buppgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
