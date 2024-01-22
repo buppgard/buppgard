@@ -1,6 +1,6 @@
 Hey 👋
 - 🔭 Currently working on a UF Online Computer Science degree.
-- 🌱 Currently learning COP3530 - Data Structures and Algorithms.
+- 🌱 Currently learning CDA 3101 - Intro to Computer Organization.
 - 💬 Ask me about airplanes 🛩️
 
 
