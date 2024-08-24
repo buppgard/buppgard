@@ -1,6 +1,6 @@
 Hey 👋
 - 🔭 Currently working on a UF Online Computer Science degree.
-- 🌱 Taking CEN3101 this summer - Intro to Software Engineering.
+- 🌱 Taking COP4600 this fall - Operating Systems.
 - 💬 Ask me about airplanes 🛩️
 
 
